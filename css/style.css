@@ -1,0 +1,11 @@
+/** reset rules **/
+html, body, table, table tbody, table tbody tr, table tbody tr td, p, h1, h2, h3, h4, h5, h6 { padding: 0 0 0 0; margin: 0 0 0 0; }
+a { text-decoration: none; }
+a:hover, a:active { outline: none; -moz-outline-style: none; }
+a:focus { -moz-outline-style: none; }
+* { outline: none; }
+img { border: none; outline: none; }
+
+
+body { background: #F5F5F5; min-width: 320px; width: 100%; margin: 0 auto; font-family: "Helvetica", "Tahoma", Arial, san-serif; line-height: 1.2; }
+h2 { color: #3A3A3A; }
